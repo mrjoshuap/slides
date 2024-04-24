@@ -88,18 +88,6 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2c001f57-d8ae-49d9-8924-b5b7519e7d56">Content Center</a></td>
 </tr>
 <tr>
-<td><b>Forrester</b>: Enterprise open source automation drives innovation</td>
-<td>Analyst material</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/enterprise-open-source-automation-drives-innovation-analyst-material">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e26a509d-b7c5-45b5-941a-31ef64900aa9">Content Center</a></td>
-</tr>
-<tr>
-<td><b>The Forrester Wave™</b>: Infrastructure automation Q1 2023</td>
-<td>Analyst material</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/forrester-wave-infrastructure-automation-analyst-asset">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=70655841-e217-4d2f-b794-9bb4add1a256">Content Center</a></td>
-</tr>
-<tr>
 <td><b>Harvard Business Review</b>: Taking the lead on IT automation</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/taking-lead-on-it-automation-analyst-material">on redhat.com</a></td>
