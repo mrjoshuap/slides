@@ -2,6 +2,7 @@
 <p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs, checklists, infographics and overviews</p>
 
 - [General](#general)
+  - [General Analyst Materials](#general-analyst-materials)
   - [General Checklists](#general-checklists)
 - [Edge and Network](#edge-and-network)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
@@ -59,6 +60,21 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/impact-of-ansible-automation-platform-training-infographic">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a70ec6a8-d70d-4f53-8aa1-36c983aae81d">Content Center</a></td>
 </tr>
+</tbody>
+</table>
+
+## General Analyst Materials
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><b>IDC</b>: The Business Value of Red Hat Ansible Automation Platform - executive summary</td>
 <td>Analyst material</td>
@@ -94,6 +110,12 @@
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/IT-automation-strategies-hbr-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=77c5b564-480a-48bf-b84c-3d304a1a4521">Content Center</a></td>
+</tr>
+<tr>
+<td><b>Enterprise Strategy Group (ESG)</b>:  The Economic Benefits of the Red Hat Ansible Automation Platform versus DIY Automation</td>
+<td>Analyst material</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/enterprise-strategy-group-aap-analyst-material">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e17c5344-050e-4a96-b526-44e2751e2fc8">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -197,6 +219,12 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Automate Cisco networks with Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-cisco-networks-with-ansible-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f3ee820e-27ed-4cf3-b773-706c95721ab0">Content Center</a></td>
+</tr>
 <tr>
 <td>3 reasons to introduce automation at the edge of the network</td>
 <td>Checklist</td>
@@ -382,6 +410,12 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Automate Red Hat Enterprise Linux deployments in the cloud brief</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-rhel-deployments-with-ansible-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://www.redhat.com/en/engage/enterprise-linux-deployments-20230801">Content Center</a></td>
+</tr>
 <tr>
 <td>Ansible on Windows for financial services</td>
 <td>Datasheet</td>

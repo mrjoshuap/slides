@@ -66,6 +66,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/midmarket-automation-ebook">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ab5445cf-8fd4-4891-a974-1a5cc3b7485b">Content Center</a></td>
 </tr>
+<tr>
+<td>From patchwork to platform: Is your organization ready to graduate to Red Hat Ansible Automation Platform?
+</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/graduate-to-ansible-automation-platform-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e735dd08-e9af-425b-a5f3-5de95ae42203">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -128,6 +134,11 @@
 <td>Customer Success Series: Simplify IT infrastructure with automation</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/sap-s4hana-automation-ebook">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=23887ed1-d0e9-4095-8bbd-83cfa9cec2c9">Content Center</a></td>
+</tr>
+<tr>
+<td>Efficient automation with Ansible</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/efficient-automation-with-ansible-detail">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c5212303-55c5-42bb-b28f-52e7eadd607b">Content Center</a></td>
 </tr>
 </tbody>
 </table>
